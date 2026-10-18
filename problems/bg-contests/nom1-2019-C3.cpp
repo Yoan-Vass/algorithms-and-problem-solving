@@ -3,6 +3,8 @@
 
 using namespace std;
 long long ans[51][51];
+
+// https://arena.olimpiici.com/api/public/problems/1048/pdf
 int main()
 {
     ios::sync_with_stdio(false);

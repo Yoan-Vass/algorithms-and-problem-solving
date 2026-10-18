@@ -3,6 +3,7 @@
 #include <string>
 #define MOD 1001027
 using namespace std;
+// https://arena.olimpiici.com/api/public/problems/722/pdf
 
 int a[2001][1001], n, k, d, t, sz;
 string s;

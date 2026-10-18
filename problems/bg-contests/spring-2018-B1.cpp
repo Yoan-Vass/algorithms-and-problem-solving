@@ -6,6 +6,7 @@ using namespace std;
 int ans[2001][1001], n, k, pos, d;
 bool flag[2001];
 
+// https://arena.olimpiici.com/api/public/problems/892/pdf
 int main()
 {
     ios::sync_with_stdio(false);

@@ -6,6 +6,7 @@ using namespace std;
 
 long long a[1000000], sum = 0, cr = 0, n, m;
 
+// https://arena.olimpiici.com/api/public/problems/2082/pdf
 int main()
 {
     ios::sync_with_stdio(false);
